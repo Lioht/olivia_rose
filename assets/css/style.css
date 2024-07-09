@@ -1,0 +1,39 @@
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+.hero {
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.trabajo {
+    background:#17A2B8;
+}
+
+.card-img-top{
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    height: 400px;
+
+}
+
+
+form{
+
+text-align: left;
+font-weight: bold;
+}
+
+footer{
+
+text-align: center;
+background-color: black;
+color: white;
+align-items: center;
+justify-content: center;
+padding: 25px;
+}
